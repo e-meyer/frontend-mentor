@@ -26,6 +26,5 @@ I've always liked building websites, but have always done that using wordpress. 
 ### :bookmark_tabs: **Projects** (ongoing)
 
 * [QR Code Component](https://github.com/e-meyer/frontend-mentor/tree/master/challengeset-01)
-*
-*
+
 
