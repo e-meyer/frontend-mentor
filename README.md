@@ -1,5 +1,7 @@
 # Frontend Mentor Challenges
 
+![Design preview for the QR code component coding challenge](./frontendmentor.png)
+
 This repository was created to show my approaches to the challenges proposed by Frontend Mentor.
 
 
