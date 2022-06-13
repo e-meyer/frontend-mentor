@@ -18,8 +18,6 @@ This was a pretty simple project to make, just getting used again to the syntax 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 
-### ⚙️ **Live version**
+### ⚙️ **[Live version](https://qr-code-component-weld.vercel.app/)**
 
 The website is hosted on an app called [Vercel](https://vercel.com/), which is a free project deployment website.
-
-You can [check it here](https://qr-code-component-weld.vercel.app/).
