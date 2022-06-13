@@ -8,7 +8,7 @@
 **Build out this QR code component and get it looking as close to the design as possible.**
 
 
-### :memo: **Brief explanation**
+### :memo: **Brief Explanation**
 
 This was a pretty simple project to make, just getting used again to the syntax of the languages. The biggest challenge here for me was centering the object while maintaining the other attributes.
 
@@ -18,6 +18,6 @@ This was a pretty simple project to make, just getting used again to the syntax 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 
-### ⚙️ **[Live version](https://qr-code-component-weld.vercel.app/)**
+### ⚙️ **[Live Version](https://qr-code-component-weld.vercel.app/)**
 
 The website is hosted on an app called [Vercel](https://vercel.com/), which is a free project deployment website.
