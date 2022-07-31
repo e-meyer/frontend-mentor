@@ -39,6 +39,7 @@ h3 {
 
 .container .text {
     font-size: 18px;
+    line-height: 30px;
 }
 
 .info {
@@ -75,4 +76,14 @@ a, h3 {
     height: auto;
     border: 1px solid hsl(215, 32%, 27%);
     border-radius: 50%;
+}
+
+h3,
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+h3:hover, a:hover {
+    color:hsl(178, 100%, 50%)
 }
