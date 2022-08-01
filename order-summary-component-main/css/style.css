@@ -16,9 +16,8 @@ body {
     display: flex;
     flex-direction: column;
     background-color: white;
-    max-width: 400px;
+    max-width: 370px;
     border-radius: 20px;
-    
 }
 
 .container img {
@@ -29,11 +28,62 @@ body {
 .info {
     display: flex;
     flex-direction: column;
-    padding: 0px 40px 40px 40px;
+    padding: 0px 35px 35px 35px;
+}
+
+.info .text {
+    color: hsl(224, 23%, 55%);
+    text-align: center;
+    font-size: 16px;
 }
 
 .title {
     color: hsl(223, 47%, 23%);
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 900;
+}
+
+.plan {
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.plan .left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.payment {
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.proceed-button,
+.cancel-button {
+    border: none;
+    font-size: 14px;
+    padding: 15px;
+    font-weight: 700;
+}
+
+.proceed-button {
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    border-radius: 10px;
+}
+
+.cancel-button {
+    color: hsl(224, 23%, 55%);
+    background-color: white;
 }
