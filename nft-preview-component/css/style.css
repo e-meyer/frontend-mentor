@@ -29,12 +29,38 @@ h3 {
 }
 
 .main-img {
-    border-radius: 10px;
-    transition: 0.5s;
+    overflow: hidden;
+    position: relative;
 }
 
-.main-img:hover {
+.main-img img {
+    width: 100%;
+    border-radius: 10px;
+    display: block;
+}
 
+.img-overlay {
+    border-radius: 10px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color:rgba(0, 255, 247, 0.5);
+    display: none;
+}
+
+.img-overlay img{
+    position: absolute;
+    width: 50px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.main-img:hover .img-overlay {
+    display: block;
+    cursor: pointer;
 }
 
 .container .text {
