@@ -14,10 +14,10 @@ This repository was created to show my approaches to the challenges proposed by 
 
 ### :scroll: **Why are you doing this?**
 
-I've always liked building websites, but have always done that using wordpress. To start learning web development, learning HTML and CSS properly seems to be the first step. The experience metric on the website is very helpful when it comes to getting a grasp of new things and it also gives you ideas on what to build, so I don't see why it would be a bad idea to try it on.
+Basically, to improve my web development skills. I've always liked building websites, but have always done that using wordpress. To start learning web development, understanding HTML and CSS properly seems to be the first step. The experience metric on the website is very helpful when it comes to getting a grasp of new things and it also gives you ideas on what to build, so I don't see why it would be a bad idea to try it on.
 
 
-### 👩‍💻 **Languages**
+### 👩‍💻 **Technologies**
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -25,6 +25,11 @@ I've always liked building websites, but have always done that using wordpress. 
 
 ### :bookmark_tabs: **Projects** (ongoing)
 
-* [QR Code Component](https://github.com/e-meyer/frontend-mentor/tree/master/challengeset-01)
+* [QR Code Component](https://github.com/e-meyer/frontend-mentor/tree/main/qr-code-component)
+
+* [NFT Preview Component](https://github.com/e-meyer/frontend-mentor/tree/main/nft-preview-component)
+
+* [Order Summary Component](https://github.com/e-meyer/frontend-mentor/tree/main/order-summary-component-main)
+
 
 
