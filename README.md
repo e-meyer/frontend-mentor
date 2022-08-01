@@ -29,7 +29,7 @@ Basically, to improve my web development skills. I've always liked building webs
 
 * [NFT Preview Component](https://github.com/e-meyer/frontend-mentor/tree/main/nft-preview-component)
 
-* [Order Summary Component](https://github.com/e-meyer/frontend-mentor/tree/main/order-summary-component-main)
+* [Order Summary Component](https://github.com/e-meyer/frontend-mentor/tree/main/order-summary-component)
 
 
 
